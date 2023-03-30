@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Rajveerxv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Asura](https://telegra.ph/file/0126974a7ae88a244b3d3.jpg)](https://github.com/Rajveerxv/Asura)
 
-<!---
-Rajveerxv/Rajveerxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h1 align="center">
+<b> 𝗔𝗦𝗨𝗥𝗔 😈 </b>
+</h1>
+
+<h6 align="center">
+  <b>⚡ 𝗔𝗦𝗨𝗥𝗔 😈 Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
+</h6>
